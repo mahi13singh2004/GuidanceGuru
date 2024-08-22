@@ -48,4 +48,9 @@
   .h1 {
     font-size: 14px;
   }
+
+  .outside{
+      background-size: cover;
+    background-position: center;
+  }
 }
