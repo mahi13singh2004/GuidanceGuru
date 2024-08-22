@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body{
+  overflow:hidden;
+}
+
 .outside {
   background-image: url("./assets/pexels-diego-caumont-107929791-10561993.jpg");
   background-position: center;
