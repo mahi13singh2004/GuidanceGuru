@@ -16,4 +16,4 @@ Q: Why is it called Guidance Guru?
 
 A: Because “Wise Advice App” was taken, and “The Secret to Everything” seemed a bit too ambitious.
 
-Click To visit-> guidance-guru-8cy13u0p7-mahi-singhs-projects.vercel.app
+Click To visit-> [guidance-guru-8cy13u0p7-mahi-singhs-projects.vercel.app](https://guidance-guru.vercel.app/)
