@@ -3,7 +3,7 @@ Welcome to Guidance Guru, the app that’s basically your wise friend who’s al
 🤔 How It Works
 Open the App: No mystical rituals required.
 Tap for Advice: Get a dose of wisdom instantly.
-Share the Wisdom: Impress your friends, family, and that guy from the coffee shop with your newfound insight.
+Share the Wisdom: Impress your friends, family, and that girl from the coffee shop with your newfound insight.
 
 📚 FAQ
 Q: Is the advice actually useful?
@@ -15,3 +15,5 @@ A: Absolutely! Use our advice to sound wise, and soon you'll be the one giving o
 Q: Why is it called Guidance Guru?
 
 A: Because “Wise Advice App” was taken, and “The Secret to Everything” seemed a bit too ambitious.
+
+Click To visit-> guidance-guru-8cy13u0p7-mahi-singhs-projects.vercel.app
