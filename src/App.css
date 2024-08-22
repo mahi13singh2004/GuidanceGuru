@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.outside {
+  background-image: url("./assets/pexels-diego-caumont-107929791-10561993.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.card {
+  width: 46%;
+  height: 20%;
+  background-color: white;
+  box-shadow: 8px 12px;
+}
+
+.h1 {
+  font-family: "Playfair Display", serif;
+}
+
+.button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.button:hover {
+  background-color: #45a049; /* Darker green background on hover */
+  transform: scale(1.05); /* Slightly enlarge the button */
+}
+
+@media (max-width: 480px) {
+  .card {
+    width: 90%;
+    height: auto;
+    padding: 10px; 
+  }
+
+  .button {
+    width: 100%;
+    padding: 12px 0;
+  }
+
+  .h1 {
+    font-size: 14px;
+  }
+}
