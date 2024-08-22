@@ -1,4 +1,4 @@
-Welcome to Guidance Guru, the app that’s basically your wise friend who’s always right, even when they're wrong. Need life advice? We’ve got you covered. Want to sound smart at dinner parties? Just pull up our app and drop some wisdom bombs!
+Welcome to **Guidance Guru**, the app that’s basically your wise friend who’s always right, even when they're wrong. Need life advice? We’ve got you covered. Want to sound smart at dinner parties? Just pull up our app and drop some wisdom bombs!
 
 🤔 How It Works<br>
 Open the App: No mystical rituals required.
