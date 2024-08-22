@@ -1,8 +1,17 @@
-# React + Vite
+Welcome to Guidance Guru, the app that’s basically your wise friend who’s always right, even when they're wrong. Need life advice? We’ve got you covered. Want to sound smart at dinner parties? Just pull up our app and drop some wisdom bombs!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🤔 How It Works
+Open the App: No mystical rituals required.
+Tap for Advice: Get a dose of wisdom instantly.
+Share the Wisdom: Impress your friends, family, and that guy from the coffee shop with your newfound insight.
 
-Currently, two official plugins are available:
+📚 FAQ
+Q: Is the advice actually useful?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A: We like to think so! If not, it’ll definitely be entertaining.
+Q: Can I become a guru too?
+
+A: Absolutely! Use our advice to sound wise, and soon you'll be the one giving out guidance.
+Q: Why is it called Guidance Guru?
+
+A: Because “Wise Advice App” was taken, and “The Secret to Everything” seemed a bit too ambitious.
