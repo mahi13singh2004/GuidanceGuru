@@ -33,7 +33,7 @@
   transform: scale(1.05); /* Slightly enlarge the button */
 }
 
-@media (max-width: 480px) {
+@media (max-width: 500px) {
   .card {
     width: 90%;
     height: auto;
@@ -41,7 +41,7 @@
   }
 
   .button {
-    width: 100%;
+    width: 50%;
     padding: 12px 0;
   }
 
