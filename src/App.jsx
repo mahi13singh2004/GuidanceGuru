@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { Analytics } from "@vercel/analytics/react"
 import axios from "axios";
 import './App.css'
 
@@ -24,6 +25,7 @@ function App() {
   
   return (
     <>
+      <Analytics/>
       <div className="h-screen w-full bg-cover">
         <div className="outside w-full h-screen flex justify-center items-center">
           <div className="card rounded-full flex flex-col justify-center items-center relative bottom-25">
